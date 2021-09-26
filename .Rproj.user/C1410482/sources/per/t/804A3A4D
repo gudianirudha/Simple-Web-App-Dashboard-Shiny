@@ -1,0 +1,27 @@
+{
+    "id": "804A3A4D",
+    "path": "D:/sample_revenue_dashboard_shiny-master/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "2434432353",
+    "contents": "",
+    "dirty": false,
+    "created": 1621969714975.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,0",
+        "scrollLine": "0",
+        "ignored_words": "valueBoxOutput\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1622031613,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1622031613951,
+    "read_only": false,
+    "read_only_alternatives": []
+}
